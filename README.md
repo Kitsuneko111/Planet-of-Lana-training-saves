@@ -5,7 +5,7 @@ This is entirely unofficial and not endorsed for cheating or any other unfair pl
 ## How this works
 [WINDOWS PC ONLY]
 
-Saves are located in [`%appdata%/../LocalLow/Wishfully/Planet Of Lana`](%appdata%/../LocalLow/Wishfully/Planet%20Of%20Lana). The files included are for the middle save slot. **It is recommended to backup your existing saves if you do not wish to corrupt them or lose progress.**
+Saves are located in [`%appdata%/../LocalLow/Wishfully/Planet Of Lana`](C:/%appdata%/../LocalLow/Wishfully/Planet%20Of%20Lana). The files included are for the middle save slot. **It is recommended to backup your existing saves if you do not wish to corrupt them or lose progress.**
 
 **Copy** the save file from the respective folder and replace the existing save if it exists.
 
