@@ -67,3 +67,6 @@ Scenic chapter, not many puzzles
 ### Chapter 11 - The Oasis
 ### Chapter 12 - End of the Road
 ### Chapter 13 - Tailo Village
+
+## Other Notes
+If you need any saves edited to work in a slot other than slot_1 then contact Timemaster 111 over at the [speedrunning discord](https://discord.gg/3kJeJqUrez)
